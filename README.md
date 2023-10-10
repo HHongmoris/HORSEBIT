@@ -60,57 +60,57 @@
 
 ## 3️⃣ 서비스 화면
 
-<h4>회원가입</h4>
+<h4>로그인</h4>
 
-![회원가입](./exec/assets/회원가입.gif)
+![로그인](./exec/assets/로그인.gif)
 
 </hr>
 
 <h4>거래소</h4>
 
-![거래소](./exec/assets/전화번호인증.gif)
+![거래소](./exec/assets/거래소.gif)
 
 </hr>
 
 <h4>주문</h4>
 
-![주문](./exec/assets/메인페이지.gif)
+![주문](./exec/assets/주문.gif)
 
 </hr>
 
 <h4>차트</h4>
 
-![차트](./exec/assets/케이지-만들기.gif)
+![차트](./exec/assets/차트.gif)
 
 </hr>
 
 <h4>정보</h4>
 
-![정보](./exec/assets/동물추가.gif)
+![정보](./exec/assets/정보.gif)
 
 </hr>
 
 <h4>마이페이지</h4>
 
-![마이페이지](./exec/assets/동물 상세.gif)
+![마이페이지](./exec/assets/마이페이지.gif)
 
 </hr>
 
 <h4>입출금 내역</h4>
 
-![입출금 내역](./exec/assets/실시간-영상.gif)
+![입출금 내역](./exec/assets/입출금.gif)
 
 </hr>
 
 <h4>더보기</h4>
 
-![더보기](./exec/assets/자동화-설정.gif)
+![더보기](./exec/assets/더보기.gif)
 
 </hr>
 
 <h4>내정보 수정</h4>
 
-![내정보 수정](./exec/assets/알림-추가.gif)
+![내정보 수정](./exec/assets/이름수정.gif)
 
 </hr>
 
