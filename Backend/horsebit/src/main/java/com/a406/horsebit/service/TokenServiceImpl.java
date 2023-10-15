@@ -50,6 +50,20 @@ public class TokenServiceImpl implements TokenService {
 		List<Long> tokensNo = tokenRepository.findAllTokenNos();
 		List<TokenDTO> result = findTokens(tokensNo);
 
+		//TODO: 아래의 테스트코드 삭제 요망
+		List<Double> testTrend = new ArrayList<>();
+		testTrend.add(-22.3);
+		testTrend.add(-19.3);
+		testTrend.add(-15.0);
+		testTrend.add(0.0);
+		testTrend.add(1.0);
+		testTrend.add(17.0);
+		testTrend.add(23.8);
+		int i = 0;
+		for(TokenDTO token : result) {
+			token.setPriceTrend(testTrend.get(i++));
+		}
+
 		log.debug("TokenServiceImpl::getAllTokens() START" + result.toString());
 		return result;
 	}
