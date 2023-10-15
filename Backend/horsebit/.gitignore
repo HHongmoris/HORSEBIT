@@ -35,3 +35,6 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### google client id, screte key, sql data ###
+/src/main/resources/application.yml
