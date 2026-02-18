@@ -1,6 +1,6 @@
 # SSAFY 9기 핀테크 특화프로젝트 
 
-# 🐎 Hores Bit
+# 🐎 Horse Bit
 
 ## **0️⃣ 프로젝트 개요**
 
